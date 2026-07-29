@@ -1,67 +1,66 @@
-<h1 align="center">Hi there, I'm Sruthy Krishna 👋</h1>
-<h3 align="center">Software Tester | Manual & Automation Testing | QA Analyst</h3>
+# Sruthy K — QA Portfolio
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Manual+Testing+%7C+STLC+%2F+SDLC;Selenium+WebDriver+%2B+Java+Automation;API+Testing+with+Postman;Performance+Testing+with+JMeter" alt="Typing SVG" />
-</p>
+A personal portfolio website showcasing my work as a Software Tester — built to highlight my testing projects, skills, certifications, and training, and to help recruiters quickly evaluate my QA capabilities.
 
----
+🔗 **Live site:** [portfolio-ipmf.vercel.app](https://portfolio-ipmf.vercel.app)
 
-### 🧪 About Me
-- 🎓 BCA graduate with an **AI Integrated Full Stack Software Testing** certification
-- 🏅 **NACTET Certified Software Tester** (Grade A+)
-- 🔍 Passionate about breaking things (the right way) and ensuring software quality
-- 💼 Actively seeking **QA Analyst / Software Tester / SDET** roles
-- 📍 Based in Kerala, India — open to opportunities across the state
-- 🌱 Currently sharpening my skills in test automation and API testing
+## Overview
+This portfolio presents my journey into Software Testing — from academic background and hands-on training to real-world style testing projects across manual testing, Selenium automation, API testing, and performance testing.
 
----
+## Tech Stack
+- **HTML5** — semantic structure
+- **CSS3** — custom properties (CSS variables), responsive grid/flexbox layouts
+- **Vanilla JavaScript** — mobile menu toggle, scroll-to-top, form handling, scroll-triggered animations
+- **Font Awesome** — icons
+- **Google Fonts (Inter)** — typography
+- **Deployment:** Vercel
 
-### 🛠️ Skills & Tools
+## Sections
+- **Hero** — intro, role summary, quick stats (test cases, projects, tools)
+- **About** — background, contact quick-info
+- **Skills** — categorized by Manual Testing, Automation Testing, API & Performance, Bug Tracking, Database, Soft Skills
+- **Training** — hands-on training program details
+- **Projects** — 5 featured testing projects (BlazeDemo, Myntra, ParaBank, OrangeHRM, Flipkart) with tech stack tags and live report links
+- **Education** — academic qualification
+- **Certifications** — industry certifications
+- **Contact** — contact details + message form
 
-**Manual Testing**
-![STLC](https://img.shields.io/badge/-STLC%2FSDLC-2E86C1?style=flat-square)
-![Test Case Design](https://img.shields.io/badge/-Test%20Case%20Design-2E86C1?style=flat-square)
-![Defect Lifecycle](https://img.shields.io/badge/-Defect%20Lifecycle-2E86C1?style=flat-square)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-**Automation Testing**
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![TestNG](https://img.shields.io/badge/-TestNG-orange?style=flat-square)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-
-**API & Performance Testing**
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
-
-**Version Control**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
+## Featured Projects
+| Project | Type | Tech Stack |
 |---|---|---|
-| [BlazeDemo Selenium Framework](https://github.com/sruthykrishnaK/blazedemo-selenium-framework) | Data-driven UI automation framework | Selenium, Java, TestNG, Apache POI, Extent Reports |
-| [OrangeHRM Manual Testing](https://github.com/sruthykrishnaK/orangehrm-manual-testing) | 60+ manual test cases with RTM & defect tracking | JIRA, STLC |
-| [Myntra Selenium Automation](https://github.com/sruthykrishnaK/myntra-selenium-automation) | UI automation for e-commerce shopping flows | Selenium, Java, TestNG, Extent Reports |
-| [ParaBank Selenium POM Framework](https://github.com/sruthykrishnaK/parabank-selenium-pom-framework) | Banking app automation using Page Object Model | Selenium, Java, TestNG |
-| [Flipkart JMeter Performance Testing](https://github.com/sruthykrishnaK/flipkart-jmeter-performance-testing) | Load & performance testing on e-commerce flows | Apache JMeter |
+| BlazeDemo Travel | Automation (Data-Driven) | Selenium, Java, TestNG, Apache POI, Extent Reports |
+| Myntra | Automation (Data-Driven) | Selenium, Java, TestNG, Apache POI, Extent Reports |
+| ParaBank | Automation (POM Framework) | Selenium, Java, TestNG, Maven |
+| OrangeHRM | Manual Testing | JIRA, RTM, Excel |
+| Flipkart | Performance Testing | Apache JMeter |
+
+Each project links back to its own repository for the underlying test code.
+
+## Features
+- Fully responsive design (mobile, tablet, desktop)
+- Smooth scroll navigation with active section highlighting
+- Scroll-triggered fade-in animations
+- Downloadable resume link
+- Functional contact form (client-side handling)
+
+## Run Locally
+```bash
+git clone https://github.com/sruthykrishnaK/portfolio.git
+cd portfolio
+```
+Open `index.html` directly in a browser, or serve it locally:
+```bash
+npx serve .
+```
+
+## Deployment
+Deployed on [Vercel](https://vercel.com) — every push to `main` auto-deploys to [portfolio-ipmf.vercel.app](https://portfolio-ipmf.vercel.app).
+
+## Connect
+- 🌐 Portfolio: [portfolio-ipmf.vercel.app](https://portfolio-ipmf.vercel.app)
+- 💻 GitHub: [github.com/sruthykrishnaK](https://github.com/sruthykrishnaK)
+- 💼 LinkedIn: [linkedin.com/in/sruthy-k2003](https://linkedin.com/in/sruthy-k2003)
+- ✉️ Email: sruthykrishna045@gmail.com
 
 ---
-
-### 📜 Certifications
-- 🏅 AI Integrated Full Stack Software Testing — Ubicsoft / STC Technologies
-- 🏅 NACTET Software Testing Certification — Grade A+ (March 2026)
-- 🏅 Tata GenAI Powered Data Analytics Job Simulation — Forage (June 2025)
-
----
-
-### 📫 Connect with Me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-2E86C1?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-ipmf.vercel.app)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sruthykrishnaK)
-
-<p align="center"><i>Open to QA Analyst / Software Tester / SDET opportunities — immediately available to join.</i></p>
+*Open to QA Analyst / Software Tester / SDET opportunities — immediately available to join.*
